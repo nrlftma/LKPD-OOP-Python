@@ -25,7 +25,7 @@ class KarakterSurfer:
         print(f"Sedang berlari: {self.is_running}")
 
 # pengujian objek
-player1 = KarakterSurfer("Jake")
+player1 = KarakterSurfer("Ming")
 player1.info_player()
 player1.berlari()
 player1.ambil_koin(5)
